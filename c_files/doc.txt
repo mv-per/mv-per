@@ -1,0 +1,10 @@
+The files used in the c_cpp code are stored here along with the pybind11 build code
+
+
+Make sure you have all the requirements installed.
+
+HOW TO INSTALL
+1) Open CMD on this folder
+2) RUN: python3 setup.py install
+
+
