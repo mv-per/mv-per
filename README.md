@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @mv-per
-- 👀 I’m interested in Science
-- 🌱 I’m currently learning advanced Python and Angular2
-- 💞️ I’m looking to collaborate on software, repositories and libraries for engineering science
-- 📫 Reach me at mav.pereira@outlook.com
+- 👋 Hi, I’m @mv-per, a passionate individual with a strong interest in Science.
+- 👀 I enjoy diving deep into various scientific fields, exploring their intricacies and seeking knowledge that broadens my understanding.
+- 🌱 Currently, I'm focused on honing my skills in advanced Python and Angular2, constantly pushing the boundaries of what I can achieve.
+- 💞️ I'm actively seeking opportunities to collaborate on software projects, repositories, and libraries that intersect with engineering and scientific domains.
+- 📫 Feel free to reach out to me at mav.pereira@outlook.com. I'm always eager to connect with fellow enthusiasts and explore exciting possibilities togethe
